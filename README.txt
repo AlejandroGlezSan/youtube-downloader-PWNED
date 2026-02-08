@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 YouTube to MP3 Downloader 
 
 Un script de Python sencillo y fiable para descargar vídeos de YouTube como archivos de audio MP3. Esta herramienta guarda automáticamente los archivos en una ubicación de fácil acceso en tu Escritorio.
@@ -215,8 +214,3 @@ The script creates:
 - `YouTube_MP3` folder on Desktop - Where downloads are saved
 
 No other files are needed - it's a single-file solution!
-
----
-
-**Enjoy your music! 🎵**
->>>>>>> e787944ef89daed42f880c53837cbe14dc19d727
